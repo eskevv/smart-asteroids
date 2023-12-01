@@ -11,4 +11,3 @@ Save the best AI or load it later or play the game yourself!.
 ![](assets/demo.png)
 
 [//]: # (&#40;The testing branch contains incomplete flappy birds AI&#41;)
-# smart-asteroids
